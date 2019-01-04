@@ -1,0 +1,1 @@
+from .ResNetV1b import resnet50_cifar10
